@@ -4,7 +4,7 @@
 
 ## 見る
 
-- GitHub Pages: `https://<ユーザー名>.github.io/<リポジトリ名>/`
+- GitHub Pages: https://kazukishuto.github.io/react02-slides/
 - 特定のスライドを開く: URL の末尾に `#50` のようにスライド番号を付ける
 - ローカルで見る: `python3 -m http.server` を実行して http://localhost:8000/ を開く
 
