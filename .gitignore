@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# 編集ツールのメタデータ（公開には不要）
+.thumbnail
+
+# 元素材（index.html からは参照していない。assets/ に同じ画像あり）
+uploads/

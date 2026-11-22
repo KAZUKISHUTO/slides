@@ -1,0 +1,57 @@
+/* ZeroPlus colors — source: ZeroPlus Design System.pdf v1.1 */
+:root {
+  /* Brand primary (orange) — the service color */
+  --orange-600: #FF6600;
+  --orange-500: #FF8320;
+  --orange-400: #FF9F33;
+  --amber-400:  #FFBB1F;
+  --orange-100: #FFE7D1;
+  --orange-50:  #FFF5EB;
+
+  --gradient-brand:      linear-gradient(135deg, #FF6600 0%, #FFBB1F 100%); /* @kind color */
+  --gradient-brand-soft: linear-gradient(135deg, #FF8320 0%, #FFC94D 100%); /* @kind color */
+
+  /* Accent (cyan) */
+  --cyan-500: #00A8BE;
+  --cyan-400: #43CFE8;
+  --cyan-100: #DBF5FA;
+  --gradient-accent: linear-gradient(135deg, #43CFE8 0%, #00A8BE 100%); /* @kind color */
+
+  /* Neutrals */
+  --white:    #FFFFFF;
+  --gray-50:  #FAFAFA;
+  --gray-100: #F4F4F5;
+  --gray-200: #E7E7E9;
+  --gray-300: #D3D3D6;
+  --gray-400: #A1A1A6;
+  --gray-500: #71717A;
+  --gray-700: #52525B;
+  --ink:      #333333;
+  --ink-900:  #1F1F22;
+
+  /* Semantic */
+  --success: #1F9D6B;
+  --warning: #F5A524;
+  --danger:  #E5484D;
+  --info:    #00A8BE;
+
+  /* Surface / text aliases */
+  --surface-page:    var(--white);
+  --surface-subtle:  var(--orange-50);
+  --surface-card:    var(--white);
+  --surface-inverse: var(--ink-900);
+
+  --text-strong:  var(--ink);
+  --text-body:    #4A4A4F;
+  --text-muted:   var(--gray-500);
+  --text-inverse: var(--white);
+  --text-brand:   var(--orange-600);
+
+  --border-subtle: var(--gray-200);
+  --border-strong: var(--gray-300);
+  --border-brand:  var(--orange-600);
+
+  --focus-ring: rgba(255, 102, 0, 0.35);
+  --link:       var(--orange-600);
+  --link-hover: #E45A00;
+}
