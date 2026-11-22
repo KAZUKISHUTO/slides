@@ -6,3 +6,6 @@
 
 # 元素材（index.html からは参照していない。assets/ に同じ画像あり）
 uploads/
+
+# エディタ設定（ローカル用）
+.vscode/
