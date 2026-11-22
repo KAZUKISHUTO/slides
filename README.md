@@ -2,8 +2,8 @@
 
 ブラウザで動く HTML スライド（1920×1080）をまとめて公開しているリポジトリです。
 
-- 一覧ページ: <https://kazukishuto.github.io/react02-slides/>
-- 各資料: `https://kazukishuto.github.io/react02-slides/<フォルダ名>/`
+- 一覧ページ: <https://kazukishuto.github.io/slides/>
+- 各資料: `https://kazukishuto.github.io/slides/<フォルダ名>/`
 - 特定のスライドを開く: URL の末尾に `#50` のようにスライド番号を付ける
 - ローカルで見る: このフォルダで `python3 -m http.server` を実行して <http://localhost:8000/> を開く
 
